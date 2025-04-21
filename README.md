@@ -29,3 +29,4 @@ A beautiful, responsive, and modern music streaming application inspired by Spot
 | **Vercel | Deployment               |
 
 ---
+**Resource and Help** [Link](https://www.youtube.com/watch?v=I1cpb0tYV74)
