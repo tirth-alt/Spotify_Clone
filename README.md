@@ -2,7 +2,7 @@
 
 A beautiful, responsive, and modern music streaming application inspired by Spotify, built with **React 18**, **Redux Toolkit**, **Tailwind CSS**, and powered by the **Shazam Core API**. Play, search, and discover trending tracks, artists, and genres with smooth UI and real-time song previews.
 
-🌐 **Live Demo:** [your-live-link.vercel.app](spotify-clone-endterm.vercel.app)
+🌐 **Live Demo:** [Spotify Clone Deployed Link(Vercel)](spotify-clone-endterm.vercel.app)
 
 ---
 
